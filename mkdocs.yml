@@ -2,7 +2,7 @@ site_name: Études Françaises
 nav:
   - Home: index.md
   - M1:
-    - Dossier de Découverte
+    - Dossier de Découverte: Dossier de Découverte.md
     - Unité 1: M1/unite-01.md
     - Unité 2: M1/unite-02.md
     - Unité 3: M1/unite-03.md
